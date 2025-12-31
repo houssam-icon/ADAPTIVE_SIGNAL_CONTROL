@@ -1,0 +1,3 @@
+/home/houssam/visualisation_raylib/build/CMakeFiles/TrafficControlSystem.dir
+/home/houssam/visualisation_raylib/build/CMakeFiles/edit_cache.dir
+/home/houssam/visualisation_raylib/build/CMakeFiles/rebuild_cache.dir

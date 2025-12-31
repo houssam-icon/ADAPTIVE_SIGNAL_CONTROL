@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/main.cpp.o -c /home/houssam/visualisation_raylib/main.cpp",
+  "file": "/home/houssam/visualisation_raylib/main.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/main.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/adaptivelogic.cpp.o -c /home/houssam/visualisation_raylib/src/adaptivelogic.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/adaptivelogic.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/adaptivelogic.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/adaptivestrategy.cpp.o -c /home/houssam/visualisation_raylib/src/adaptivestrategy.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/adaptivestrategy.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/adaptivestrategy.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/coordinator.cpp.o -c /home/houssam/visualisation_raylib/src/coordinator.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/coordinator.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/coordinator.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/draw.cpp.o -c /home/houssam/visualisation_raylib/src/draw.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/draw.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/draw.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/fixedstrategy.cpp.o -c /home/houssam/visualisation_raylib/src/fixedstrategy.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/fixedstrategy.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/fixedstrategy.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/greenstate.cpp.o -c /home/houssam/visualisation_raylib/src/greenstate.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/greenstate.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/greenstate.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/intersectioncontroller.cpp.o -c /home/houssam/visualisation_raylib/src/intersectioncontroller.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/intersectioncontroller.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/intersectioncontroller.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/redstate.cpp.o -c /home/houssam/visualisation_raylib/src/redstate.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/redstate.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/redstate.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/sensor.cpp.o -c /home/houssam/visualisation_raylib/src/sensor.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/sensor.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/sensor.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/source.cpp.o -c /home/houssam/visualisation_raylib/src/source.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/source.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/source.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/trafficlight_fixe.cpp.o -c /home/houssam/visualisation_raylib/src/trafficlight_fixe.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/trafficlight_fixe.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/trafficlight_fixe.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/traficlight.cpp.o -c /home/houssam/visualisation_raylib/src/traficlight.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/traficlight.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/traficlight.cpp.o"
+},
+{
+  "directory": "/home/houssam/visualisation_raylib/build",
+  "command": "/usr/bin/c++  -I/home/houssam/visualisation_raylib/. -I/home/houssam/visualisation_raylib/include -g -std=gnu++17 -o CMakeFiles/TrafficControlSystem.dir/src/yellowstate.cpp.o -c /home/houssam/visualisation_raylib/src/yellowstate.cpp",
+  "file": "/home/houssam/visualisation_raylib/src/yellowstate.cpp",
+  "output": "CMakeFiles/TrafficControlSystem.dir/src/yellowstate.cpp.o"
+}
+]
