@@ -67,7 +67,7 @@ Bash
 download
 content_copy
 expand_less
-git clone https://github.com/yourusername/intelligent-traffic-system.git
+git clone https://github.com/houssam-icon/ADAPTIVE_SIGNAL_CONTROL.git
 cd intelligent-traffic-system
 
 Build the project
