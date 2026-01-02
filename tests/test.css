@@ -1,0 +1,46 @@
+body{
+  text-align:center;
+  margin:30px;
+}
+header{
+  margin:30px;
+  border:2px solid aqua;
+  padding:10px;
+  background-color:aqua;
+
+}
+table #input{
+
+  width:100%;
+  border:none;
+  height:120%;
+}
+table #Btn{
+  width:100%;
+  border:none;
+}
+#Btn:hover{
+    background-color:rgb(104, 94, 94);
+    cursor:pointer;
+}
+main{
+
+  margin:30px;
+}
+table{
+    text-align:center;
+    margin:0 auto;
+    width:100%;
+}
+table:not(#inputTAb){
+  border:1px solid black;
+}
+
+
+table thead{
+  background-color:black;
+  color:white;
+}
+#Tab tr {
+   padding:10px;
+}
